@@ -18,6 +18,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./public/demonstration.gif" />
+</p>
+
 ---
 
 ## ✦ What is this?
