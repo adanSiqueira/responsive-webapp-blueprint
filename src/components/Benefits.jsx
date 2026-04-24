@@ -33,7 +33,7 @@ const Benefits = () => {
                             }}
                         >
                             <div className="relative flex flex-col min-h-[22rem] p-[2.4rem] pointer-events-none">
-                                <h5 className="h2 mb-5">{item.title}</h5>
+                                <h5 className="h5 mb-5">{item.title}</h5>
                                 <p className="body-2 mb-6 text-n-2">
                                     {item.text}
                                 </p>
