@@ -142,22 +142,6 @@ Open [http://localhost:5173](http://localhost:5173) to see it in action.
 
 ---
 
-##  Roadmap
-
-This is a **blueprint in active development**. Sections and features currently being built out include:
-
-- [ ] **Benefits section** — Feature cards with animated icons
-- [ ] **Services section** — Multi-panel service showcase
-- [ ] **Collaboration section** — Integration logos with curved connectors
-- [ ] **Pricing section** — Tiered pricing cards with decorative starfield
-- [ ] **Roadmap section** — Timeline of product milestones
-- [ ] **Footer** — Social links, navigation, and legal
-- [ ] **Authentication flows** — Sign In / New Account pages
-- [ ] **Dark/Light theme toggle**
-- [ ] **Accessibility audit** — ARIA labels, keyboard navigation, focus management
-
----
-
 ##  Dependencies
 
 | Package | Purpose |
