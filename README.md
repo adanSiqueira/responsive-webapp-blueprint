@@ -13,7 +13,7 @@
 
 <br/>
 
-> **Access link **
+> **Access the application**
 > [clicking here.](https://adansiqueira.github.io/modern-ui-ux/)
 
 </div>
